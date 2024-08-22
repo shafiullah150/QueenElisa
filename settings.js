@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QRXRWYDlVOVpERQxkUo9WSiFlNKRDWYhENOVzRUFXWStUboF0ZRNEWyclRjE2UENkVWF0dpwd=874029361329',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -24,8 +24,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NAME: '𝐂𝐇𝐔𝐙𝐙𝐀 𝐈𝐍𝐒𝐈𝐃𝐄',
+  OWNER_NUMBER: '923163920478',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
